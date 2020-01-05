@@ -37,6 +37,8 @@ L'application web permettre de :
 
 NOTE DE L'AUTEUR
 
-Le bonus n'a pas été effectué. 
-La table SQL admet 25chars pour l'auteur, 50chars le titre, 100chars la description et 3000chars pour le texte. 
-Les données de la table SQL ne sont pas encodées en UTF-8, se faisant il est possible qu'il y est des erreurs d'affichage (notemmant les accents).
+    Le bonus n'a pas été effectué. 
+    La table SQL admet 25chars pour l'auteur, 50chars le titre, 100chars la description et 3000chars pour le texte. 
+    Les données de la table SQL ne sont pas encodées en UTF-8, se faisant il est possible qu'il y est des erreurs d'affichage          (notemmant les accents).
+    La BDD se nomme "blog", avec comme utilisateur "root" et sans mdp. La table se nomme "articles" et est située à la racine du projet.
+
